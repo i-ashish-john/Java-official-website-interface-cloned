@@ -1,0 +1,138 @@
+*{
+    background-repeat: no-repeat;
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* .heading{
+ width: 80px;
+ height: 200px;
+ background-color: aqua;
+
+}
+.btn{
+    margin-left: 300px;
+}
+.card{
+    width:200px;
+    height: 400px;
+} */
+
+
+/*  */
+/* #first-container{
+display: flex;
+background-color: rgb(67, 108, 185);
+
+
+}
+.img{
+    margin-right: 10px;
+} */
+/* #naavi{
+    background-color: rgb(84, 112, 163);
+} */
+
+
+
+#first-cont{
+    height: 100px
+    width: 100%;
+    background-color: rgb(80, 111, 179);
+
+}
+/*  */
+/* #list{
+    display: flex;
+    justify-content:
+    text-align: center;
+    padding-bottom: 50px;
+
+    margin-left: 50px;
+}
+h1{
+ text-align: center;
+    
+}
+#first-heading{
+    margin-left: 80px;
+    margin-bottom: 50px;
+
+}
+.img{
+    align-content: start;
+    padding-top: 50px;
+    margin-left: 50px;
+} */
+.align{
+    display: flex;
+    margin-left: 100px;
+    justify-content: space-evenly;
+}
+#first-link{
+ margin-top: 50px;
+}
+#logo{
+    margin-top: 20px;
+}
+#heading top {
+    margin-bottom: 80px;
+}
+h2:hover{
+   color: red;
+}
+#get-java{
+    margin-left: 50px;
+}
+#javabtn{
+  margin-left: 250px;
+
+}
+ #get-java{
+
+    /* color: grey;
+    flex-wrap; */
+/* }
+#photo-work{
+    display: flex;
+    justify-content:flex-end;
+   
+}
+#second-fluid{
+    width:1500px;
+    height:100px;
+   background-color: grey;
+    /* margin-bottom: 50px; */
+    
+/* }
+#last-part{
+    background-color: rgb(133, 127, 127);
+}
+#row{
+    display: flex;
+    justify-content: center; */
+/* }
+#footer{
+    text-align: center;
+}
+#button1{
+    margin-left: 800px;
+}
+#button2{
+margin-left: 500px;
+
+} */ 
+#footer{
+    height: 500px;
+}
+#unlist{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+#last-sec{
+   margin-left: 50px;
+}
